@@ -1,0 +1,2 @@
+# scrapy-project
+scrapy project
